@@ -1,2 +1,2 @@
-# website-namak
-https://tech-odyssey.github.io/website-namak/
+# website-suraksha
+https://tech-odyssey.github.io/website-suraksha/
